@@ -24,7 +24,7 @@
       <nav>
          <ul class="nav bg-body-tertiary justify-content-end">
             <li class="nav-item">
-               <a class="text-brown nav-link" href="Views/About me.php"> About Me</a>
+               <a class="text-brown nav-link" href="About me/About me.php"> About Me</a>
             </li>
             <li class="nav-item">
                <a class="text-brown  nav-link" href="Motto/Motto.php">Motto</a>
@@ -34,7 +34,6 @@
             </li>
          </ul>
       </nav>
-<<<<<<< HEAD
      </div>
          <div class="background-image text-center">
         <div class="fs-1 fw-bold">This is Me!</div> <br> <br>
@@ -44,17 +43,6 @@
          <div class="container">
             <h1>Contact Me</h1>
             <form action ="insert.php" method ="POST">
-=======
-   </div>
-   <div class="background-image text-center">
-      <div class="fs-1 fw-bold">This is Me!</div> <br> <br>
-      <div class="fs-2 ">"Im just me a simple girl <br> Living her life the way one should"</div>
-   </div>
-   <div class="Contact py-2">
-      <div class="container">
-         <h1>Contact Me</h1>
-         <form action="insert.php" method="POST">
->>>>>>> e8414c733bfc6a416e3250683846c990f3e81bf6
             <div class="modal-body">
                <div class="mb-3">
                   <label for="email" class="form-label">Email address</label>
